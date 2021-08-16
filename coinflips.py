@@ -23,8 +23,6 @@ probv2 = combination(flips, 5)/outcomes
 print(f"Option 1. Probability of {flips} heads in a row: {probv1}")
 print(f"Option 2. Probability of {flips} heads in a row: {probv2}")
 
-# %%
-
 #%% visualize number possible outcomes of n heads
 
 #calculate all ways to get all numbers of heads (for chart)
